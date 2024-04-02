@@ -10,8 +10,10 @@ const meta = {
   title: 'Dyte Docs',
   tagline:
     'Explore comprehensive documentation for Dyte, including guides, references, and best practices.',
-  url: 'https://docs.dyte.io',
-  baseUrl: '/',
+    "url": "https://simbajigege.github.io",
+    "baseUrl": "/docs/",
+    "organizationName": "simbajigege",
+    "projectName": "docs",
   favicon: '/favicon.ico',
   i18n: {
     defaultLocale: 'en',
