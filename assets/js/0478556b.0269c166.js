@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdyte_docs=self.webpackChunkdyte_docs||[]).push([[37100],{3752:e=>{e.exports=JSON.parse('[{"label":"releasenotes","permalink":"/docs/android/tags/releasenotes","count":1}]')}}]);
